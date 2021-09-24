@@ -1,3 +1,5 @@
+package Accout;
+
 import Accout.accout;
 public class Bank {
     public static void main(String[] args) {

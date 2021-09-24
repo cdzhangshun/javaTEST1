@@ -1,4 +1,4 @@
-package Students.java;
+package Students;
     public class Student {
 
         public int stuNO;//编号

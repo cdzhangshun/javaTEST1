@@ -1,4 +1,4 @@
-package Students.java;
+package Students;
 
 import java.util.Scanner;
 
@@ -32,4 +32,4 @@ public class StudentsFUNCTION {
 
 
 
-    }
+}
